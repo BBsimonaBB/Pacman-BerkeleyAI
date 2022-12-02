@@ -6,9 +6,9 @@ The whole project can be found here: http://ai.berkeley.edu/project_overview.htm
 
 This project requires a Python version no higher than 2.7 ! The project does not run on Python 3.10
 
-##Usage
+## Solutions
 
-Here are the requirements that I implemented in my project: http://ai.berkeley.edu/search.html
+Here are the solutions that I implemented in my project: http://ai.berkeley.edu/search.html
 
 I evaluated my solution with the help of the tests given my the project and they all successfully passed.  
 Q1: Depth First Search  
@@ -33,6 +33,6 @@ The next photo shows the algorithm A* weighted
 All these photos and even more are to be found in the documentation (which is in Romanian).
 My point was to prove the slightly better solution the A* weighetd has given to our problem
 
-##Further development
+## Further development
 
 Checking the other requrements and providing a solution for the remaining 2 questions of the search problem. Afterwards, there are a few other projects designed on this very Pacman.
