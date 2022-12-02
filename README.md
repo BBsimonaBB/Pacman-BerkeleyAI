@@ -1,5 +1,5 @@
 # Pacman-BerkeleyAI
-This project contains my solution for the search scenarios introduced by the Berkeley Pacman project.
+This project contains my solution for the search scenarios introduced by the Berkeley Pacman project.  It is written in Python.
 The whole project can be found here: http://ai.berkeley.edu/project_overview.html
 
 ## Requirements
