@@ -6,6 +6,8 @@ The whole project can be found here: http://ai.berkeley.edu/project_overview.htm
 
 This project requires a Python version no higher than 2.7 ! The project does not run on Python 3.10
 
+The archive .rar contains all the files needed for running the projects and all the commands from Berkeley. The other 2 files are the only ones I changes and added personal algorithms to.
+
 ## Solutions
 
 Here are the solutions that I implemented in my project: http://ai.berkeley.edu/search.html
